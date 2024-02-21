@@ -102,9 +102,7 @@ body {
     background-color: var(--cor-hover);
 }
 
-.apresentacao__imagem{
-    width: 30%;
-}
+
 
 .rodape {
     color: var(--cor-primaria);
